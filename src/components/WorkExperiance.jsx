@@ -48,7 +48,7 @@ export default function ProjectExperience() {
     },
     {
       title: "Job Rashpi — Full Stack MERN Platform",
-      link: "YOUR_JOBRASHPI_GITHUB_Lhttps://github.com/PIYUSHAG12345/job_rashpiINK_HERE",
+      link: "https://github.com/PIYUSHAG12345/job_rashpi",
       icon: "github",
       period: "March 2025",
       tech: "Node.js • Express.js • MongoDB • React.js • JWT • Google OAuth 2.0",
